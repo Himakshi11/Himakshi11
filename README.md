@@ -1,8 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Himakshi%20Mishra&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=SOFTWARE%20DEVELOPER%20%7C%20AI%20ENTHUSIAST&descAlignY=60&descSize=16&animation=twinkling&color=0:0B132B,100:5BC0BE" alt="Animated waving navy-to-teal banner reading Himakshi Mishra — Software Developer and AI Enthusiast" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Himakshi%20Mishra&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=SOFTWARE%20DEVELOPER%20%7C%20AI%20ENTHUSIAST&descAlignY=60&descSize=16&animation=twinkling&color=0:0B1D51,35:312E81,65:7C3AED,100:06B6D4" alt="Animated waving blue-to-purple-to-cyan banner reading Himakshi Mishra — Software Developer and AI Enthusiast" width="100%" />
 
-<a href="https://readme-typing-svg.herokuapp.com"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=2800&pause=700&color=5BC0BE&center=true&vCenter=true&width=700&lines=Building+useful+software+with+AI;Full-stack+web+development;C%2B%2B+%7C+Python+%7C+Java;700%2B+LeetCode+problems+solved;Turning+ideas+into+working+applications" alt="Animated introduction: Building useful software with AI; Full-stack web development; C++, Python, and Java; 700+ LeetCode problems solved; Turning ideas into working applications" /></a>
+<a href="https://readme-typing-svg.herokuapp.com"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=2800&pause=700&color=22D3EE&center=true&vCenter=true&width=700&lines=Building+useful+software+with+AI;Full-stack+web+development;C%2B%2B+%7C+Python+%7C+Java;700%2B+LeetCode+problems+solved;Turning+ideas+into+working+applications" alt="Animated introduction: Building useful software with AI; Full-stack web development; C++, Python, and Java; 700+ LeetCode problems solved; Turning ideas into working applications" /></a>
+
+
 
 [![Profile views](https://komarev.com/ghpvc/?username=Himakshi11&style=for-the-badge&color=1C2541&label=PROFILE+VIEWS)](https://github.com/Himakshi11)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-5BC0BE?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himakshi-mishra-196187293/)
