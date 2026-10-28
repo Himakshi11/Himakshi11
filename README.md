@@ -15,7 +15,7 @@
 
 ## 👋 About Me
 
-I'm **Himakshi Mishra**, a Computer Science and Engineering student at **Pranveer Singh Institute of Technology (PSIT), Kanpur**, pursuing my B.Tech from **2023–2027** with a **CGPA of 8.17**.
+I'm **Himakshi Mishra**, a Computer Science and Engineering student at **Pranveer Singh Institute of Technology (PSIT), Kanpur**, pursuing my B.Tech from **2023–2027**.
 
 - 💻 Interested in software development, full-stack engineering, and AI-powered applications.
 - 🌐 Building full-stack applications with the MERN stack.
